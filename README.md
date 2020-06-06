@@ -4,6 +4,7 @@
 
 #Server
   Receber os dados dos pontos de coleta enviado pelo módulo Web e persistir tais dados em uma database.
+  Retornar os tipos de residuos e o pontos cadastros.
   
   Tecnologias: NodeJS, Typescript, Express e knex.
   
@@ -15,6 +16,5 @@
   
   #Mobilie
     Consultar no mapa quais os pontos disponíveis em uma determinada região.
-    
-     Tecnologias: ReactJS, Typescript, Expo.
+    Tecnologias: ReactJS, Typescript, Expo.
   
