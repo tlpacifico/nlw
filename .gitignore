@@ -1,6 +1,6 @@
 node_modules
+build
 coverage
-src
 npm-debug.log
 .nyc_output
 .cache
